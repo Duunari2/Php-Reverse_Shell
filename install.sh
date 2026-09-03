@@ -11,3 +11,4 @@ sudo apt install vsftpd
 sudo apt install apache2
 sudo apt install php
 sudo apt install firefox
+firefox index.html
