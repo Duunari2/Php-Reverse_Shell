@@ -26,5 +26,5 @@ https://datat.freehostia.com/<br>
 https://datat.freehostia.com/CrackMes/<br>
 https://www.github.com/Duunari2/<br>
 https://datat.freehostia.com/donate/ - donate me a cup of a coffee...<br><br><br><br>
-<img src="skull.jpg">
+<img src="skull.jpg" width="620" height="420">
 
