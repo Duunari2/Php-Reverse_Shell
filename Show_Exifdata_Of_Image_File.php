@@ -3,6 +3,16 @@
 
 //Commit.php php 32 bytes long character. Variable has 32 bytes slot of free data available to store the triggered tag.
 
+
+//Need to chmod this file to 777 to use this like a pro..
+
+//To use this tool like normal production it needs to get chmodded to 777 for executable allowed..
+
+//Follow the echoed tutorial, you can try the tool on my server also. Best is to use it under localhost and in radio silence.
+
+//Get this file .php file location on drive or ftp.. get url of file location.
+
+
 $echo "Upload your images for use a link like: https://datat.freehostia.com/images/koodaus.php?logotus=https://datat.freehostia.com/images/uploaded_image.jpg.. Images stored under directory named /images/ . First step is to upload the image file to the server and then make the link to fit with the filename to use as link to contain the file storage drive. The images plased on directory under /images/ And only me is allowed to remove the content. There is filelimit as use the profile the file strenght to limit the upload file size. Then step 2 is to set the logotus variable in koodaus.php to match with the image link you get via uploading by after this method under relocate.<br><br><br><br> Get hidden image contents by using the metadata and the hidden tags inside the image file like the Copyright and FileCreationTime tags. You can also modify the tags by making your own image file to use as copy the tags from your example to the target file.. Like CopyTags to use the function called following. Just add to the KeyWords via using the gimp image manipulation program in Windows or Linux."
 if (isset($_POST["submit"])) {
 
