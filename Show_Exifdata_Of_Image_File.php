@@ -1,4 +1,7 @@
 <?php
+//Try to use this tool as the following steps: Think like github account can storage these pictures this script is using. Is it possible, give it a try.
+
+//Commit.php php 32 bytes long character. Variable has 32 bytes slot of free data available to store the triggered tag.
 
 $echo "Upload your images for use a link like: https://datat.freehostia.com/images/koodaus.php?logotus=https://datat.freehostia.com/images/uploaded_image.jpg.. Images stored under directory named /images/ . First step is to upload the image file to the server and then make the link to fit with the filename to use as link to contain the file storage drive. The images plased on directory under /images/ And only me is allowed to remove the content. There is filelimit as use the profile the file strenght to limit the upload file size. Then step 2 is to set the logotus variable in koodaus.php to match with the image link you get via uploading by after this method under relocate.<br><br><br><br> Get hidden image contents by using the metadata and the hidden tags inside the image file like the Copyright and FileCreationTime tags. You can also modify the tags by making your own image file to use as copy the tags from your example to the target file.. Like CopyTags to use the function called following. Just add to the KeyWords via using the gimp image manipulation program in Windows or Linux."
 if (isset($_POST["submit"])) {
